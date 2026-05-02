@@ -37,12 +37,3 @@ The audio plugin work (Encore, Bacara, JUCE infra) is private.
 
 [bonboa.com](https://bonboa.com) · [LinkedIn](https://www.linkedin.com/in/jorisroling/) ·
 joris@bonboa.com
-
-A few flags before you commit:
-
-1. ARP/UNA at Superbooth 2026 — is that publicly announced yet, or still under embargo? If
-embargoed, drop the whole line until Chris is ready to make noise about it.
-2. "Private for now" on Encore — accurate but invites the question "when?". If you don't want that
-question, change to just "Private." or drop the qualifier.
-3. Hawtin/IRCAM line — strong credit. Worth confirming you're comfortable with it being the first
-thing under "Lineage" since it's the line that does the most work for first-time visitors.
